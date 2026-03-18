@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm test:*)",
+      "mcp__playwright",
+      "mcp__playwright__browser_navigate"
+    ]
+  }
+}
